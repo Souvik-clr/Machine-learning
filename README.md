@@ -1,3 +1,3 @@
 # Machine learning
-Logistic Regression
+Breast cancer
 Using k-Fold Cross Validation

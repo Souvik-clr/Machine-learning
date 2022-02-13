@@ -1,3 +1,3 @@
 # Machine learning
-Breast cancer
+Breast cancer prediction
 Using k-Fold Cross Validation
